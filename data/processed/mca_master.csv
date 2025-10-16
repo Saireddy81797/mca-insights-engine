@@ -1,0 +1,16 @@
+CIN,COMPANY_NAME,CLASS,DATE_OF_INCORPORATION,AUTHORIZED_CAPITAL,PAIDUP_CAPITAL,STATUS,PRINCIPAL_BUSINESS_ACTIVITY,REGISTERED_OFFICE_ADDRESS,ROC_CODE,STATE,SOURCE_FILE,SCRAPE_DATE
+U12345MH2025PTC000001,Sunrise Agrotech Pvt Ltd,Private,2025-09-27,1000000,500000,Active,Agriculture,"Pune, Maharashtra",ROC-Mumbai,Maharashtra,maharashtra_2025-10-03.csv,2025-10-03
+U12346KA2025PTC000002,TechNova Analytics Pvt Ltd,Private,2025-05-11,2000000,1500000,Active,IT Services,"Bengaluru, Karnataka",ROC-Bangalore,Karnataka,karnataka_2025-10-03.csv,2025-10-03
+U12347TG2025PTC000003,HydroGreen Energy Solutions Pvt Ltd,Private,2025-07-08,5000000,3000000,Active,Renewable Energy,"Hyderabad, Telangana",ROC-Hyderabad,Telangana,telangana_2025-10-03.csv,2025-10-03
+U12348DL2025PTC000004,UrbanNest Realty Pvt Ltd,Private,2025-08-14,10000000,5000000,Active,Real Estate,"New Delhi, Delhi",ROC-Delhi,Delhi,delhi_2025-10-03.csv,2025-10-03
+U12349TN2025PTC000005,OceanWave Shipping Pvt Ltd,Private,2025-06-30,2500000,1000000,Active,Logistics,"Chennai, Tamil Nadu",ROC-Chennai,Tamil Nadu,tamilnadu_2025-10-03.csv,2025-10-03
+U12350MH2025PTC000006,Quantum Finance Pvt Ltd,Private,2025-04-01,3000000,1500000,Strike Off,Financial Services,"Mumbai, Maharashtra",ROC-Mumbai,Maharashtra,maharashtra_2025-10-03.csv,2025-10-03
+U12351KA2025PTC000007,AeroDrive Mobility Pvt Ltd,Private,2025-09-01,1500000,1000000,Active,Automotive,"Mysuru, Karnataka",ROC-Bangalore,Karnataka,karnataka_2025-10-03.csv,2025-10-03
+U12352TG2025PTC000008,DataCraft Labs Pvt Ltd,Private,2025-08-03,1200000,250000,Active,Artificial Intelligence,"Hyderabad, Telangana",ROC-Hyderabad,Telangana,telangana_2025-10-03.csv,2025-10-03
+U12353DL2025PTC000009,MetroCare Diagnostics Pvt Ltd,Private,2025-07-16,2000000,1000000,Active,Healthcare,"Delhi Central",ROC-Delhi,Delhi,delhi_2025-10-03.csv,2025-10-03
+U12354TN2025PTC000010,SpiceRoot Foods Pvt Ltd,Private,2025-06-24,1000000,750000,Active,Food Processing,"Madurai, Tamil Nadu",ROC-Chennai,Tamil Nadu,tamilnadu_2025-10-03.csv,2025-10-03
+U12355MH2025PTC000011,NextGen Robotics Pvt Ltd,Private,2025-10-01,5000000,4000000,Active,Robotics,"Nashik, Maharashtra",ROC-Mumbai,Maharashtra,maharashtra_2025-10-03.csv,2025-10-03
+U12356KA2025PTC000012,SmartInfra Tech Pvt Ltd,Private,2025-09-15,4000000,2000000,Active,Infrastructure,"Bangalore, Karnataka",ROC-Bangalore,Karnataka,karnataka_2025-10-03.csv,2025-10-03
+U12357TG2025PTC000013,MedAI Health Pvt Ltd,Private,2025-03-10,3000000,2500000,Amalgamated,AI Healthcare,"Hyderabad, Telangana",ROC-Hyderabad,Telangana,telangana_2025-10-03.csv,2025-10-03
+U12358DL2025PTC000014,CyberVault Security Pvt Ltd,Private,2025-10-02,2000000,1000000,Active,Cybersecurity,"New Delhi, Delhi",ROC-Delhi,Delhi,delhi_2025-10-03.csv,2025-10-03
+U12359TN2025PTC000015,GreenHarvest Organics Pvt Ltd,Private,2025-09-30,1000000,600000,Active,Agriculture,"Coimbatore, Tamil Nadu",ROC-Chennai,Tamil Nadu,tamilnadu_2025-10-03.csv,2025-10-03

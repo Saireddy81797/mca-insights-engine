@@ -1,0 +1,39 @@
+{
+  "date": "2025-10-03",
+  "new_incorporations": 5,
+  "deregistered": 1,
+  "updated_records": 8,
+  "top_fields_changed": {
+    "STATUS": 3,
+    "AUTHORIZED_CAPITAL": 2,
+    "PAIDUP_CAPITAL": 1,
+    "REGISTERED_OFFICE_ADDRESS": 1,
+    "PRINCIPAL_BUSINESS_ACTIVITY": 1
+  },
+  "sample_status_changes": [
+    {
+      "CIN": "U12346KA2025PTC000002",
+      "Change_Type": "Field Update",
+      "Field_Changed": "STATUS",
+      "Old_Value": "Inactive",
+      "New_Value": "Active",
+      "Date": "2025-10-03"
+    },
+    {
+      "CIN": "U12350MH2025PTC000006",
+      "Change_Type": "Field Update",
+      "Field_Changed": "STATUS",
+      "Old_Value": "Active",
+      "New_Value": "Strike Off",
+      "Date": "2025-10-03"
+    },
+    {
+      "CIN": "U12357TG2025PTC000013",
+      "Change_Type": "Field Update",
+      "Field_Changed": "STATUS",
+      "Old_Value": "Active",
+      "New_Value": "Amalgamated",
+      "Date": "2025-10-03"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+streamlit
+flask
+python-dotenv
+openai        # if using OpenAI for summarization/RAG
+faiss-cpu     # or sklearn + annoy if faiss not available
+tqdm
+pytest        # optional

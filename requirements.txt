@@ -1,12 +1,23 @@
+# Core data
 pandas
 numpy
+tqdm
+
+# Web scraping
 requests
 beautifulsoup4
 lxml
+
+# Visualization & dashboard
 streamlit
 flask
+
+# AI + RAG
+openai
+faiss-cpu
+
+# Environment management
 python-dotenv
-openai        # if using OpenAI for summarization/RAG
-faiss-cpu     # or sklearn + annoy if faiss not available
-tqdm
-pytest        # optional
+
+# Optional
+pytest

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+venv/
+.env
+.ipynb_checkpoints/
+.DS_Store
+
+# Data outputs
+data/raw/
+data/snapshots/
+outputs/enriched/
+outputs/change_logs/
+outputs/summaries/
+data/processed/mca_master.csv
+
+# IDE / OS
+.vscode/
+.idea/

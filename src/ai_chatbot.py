@@ -1,21 +1,6 @@
-import os
-from dotenv import load_dotenv
-from openai import OpenAI
-
-load_dotenv()
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-
-def ask_mca_bot(question):
-    try:
-        completion = client.chat.completions.create(
-            model="gpt-3.5-turbo",
-            messages=[
-                {"role": "system", "content": "You are an MCA data assistant answering company-related questions."},
-                {"role": "user", "content": question}
-            ],
-            max_tokens=200,
-            temperature=0.4
-        )
-        return completion.choices[0].message.content
-    except Exception as e:
-        return f"❌ Error: {str(e)}"
+# src/ai_chatbot.py
+def ask_mca_bot(query: str) -> str:
+    """Dummy placeholder chatbot (so Streamlit won't break)."""
+    if not query.strip():
+        return "Please enter a question."
+    return f"🤖 (Placeholder) You asked: '{query}'. The intelligent MCA Bot will answer this in the full version!"

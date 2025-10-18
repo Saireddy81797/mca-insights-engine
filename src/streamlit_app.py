@@ -1,6 +1,15 @@
+# ================== streamlit_app.py ==================
+
 import streamlit as st
 import pandas as pd
 from pathlib import Path
+import sys, os
+
+# 👇 Add this to ensure Streamlit finds your src folder (IMPORTANT)
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+# ✅ Import chatbot function
+from src.ai_chatbot import ask_mca_bot
 
 # --- File Paths ---
 MASTER = Path("data/processed/mca_master.csv")
@@ -85,13 +94,10 @@ with tab3:
         st.warning("⚠️ Enriched sample file not found. Please upload `outputs/enriched/enriched_sample.csv`.")
 
 # ====================== TAB 4 — AI CHATBOT ======================
-# ====================== TAB 4 — AI CHATBOT ======================
-from src.ai_chatbot import ask_mca_bot  # ✅ make sure ai_chatbot.py is inside src/
-
 with tab4:
     st.header("🤖 MCA AI Chatbot")
 
-    st.write("Ask any question related to MCA company data (example: *Show me companies registered in Maharashtra in 2024*).")
+    st.write("Ask any question related to MCA company data (for example: *Show me companies registered in Maharashtra in 2024*).")
 
     user_question = st.text_input("💬 Type your question:")
 
